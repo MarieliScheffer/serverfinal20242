@@ -1,8 +1,6 @@
-
+import Principal from "./principal"
 export default function Home() {
   return (
-    <div>
-      <h1>WEB UTFPR</h1>
-    </div>
+      <h2>teste</h2>
   );
 }
